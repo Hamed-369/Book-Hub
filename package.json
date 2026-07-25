@@ -5,6 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
+    "tailwind": "@tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "repository": {
@@ -15,8 +16,10 @@
   "author": "Hamed",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
     "core-js": "^3.49.0",
-    "regenerator-runtime": "^0.14.1"
+    "regenerator-runtime": "^0.14.1",
+    "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
     "parcel": "^2.16.4"
