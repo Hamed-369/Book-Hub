@@ -1,0 +1,24 @@
+{
+  "name": "book-hub",
+  "version": "1.0.0",
+  "description": "Find, read, save, create your favorite books with Book Hub",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [],
+  "author": "Hamed",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.49.0",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
