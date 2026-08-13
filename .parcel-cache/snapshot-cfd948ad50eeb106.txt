@@ -1,4 +1,4 @@
-7980
+7988
 96C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\es.reflect.has.js134294310244125750 0
 108C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\internals\dom-token-list-prototype.js134294310239778644 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\internals\get-mode-option.js134294310255369122 0
@@ -15,7 +15,7 @@
 102C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@jridgewell\remapping\types\types.d.mts134294355820316888 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@jridgewell\resolve-uri\package.json134294355819263837 0
 104C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\es.set.intersection.v2.js134294310244265654 0
-60C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\.gitignore134298699807083668 0
+60C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\.gitignore134310739025376743 0
 98C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\async-iterator\some.js134294310272139130 0
 135C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node134294313793161700 0
 84C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@swc\helpers\_\_throw134294313804194857 1
@@ -32,7 +32,7 @@
 92C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\msgpackr-extract\package.json134294313787691103 0
 94C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\features\number\virtual134294310277407439 1
 112C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js134294313788316259 0
-54C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist134310692017505446 1
+54C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist134310739094142065 1
 75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\lmdb\LICENSE134294313790128408 0
 95C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\es.math.log10.js134294310242877572 0
 109C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\micromatch\node_modules\picomatch\lib\utils.js134294355830924379 0
@@ -114,7 +114,7 @@
 59C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\README.md134294304008686992 0
 83C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\tapable\package.json134294355822600132 0
 105C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\caniuse-lite\data\features\rel-noopener.js134294313811813104 0
-65C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\src\js\modal.js134309942498713783 0
+65C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\src\js\modal.js134310738645774762 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\symbol\async-dispose.js134294310233945046 0
 119C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag134294313790658148 0
 96C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\es.array.every.js134294310241011459 0
@@ -152,7 +152,7 @@
 110C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\internals\set-method-accept-set-like.js134294310270741060 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\stable\regexp\constructor.js134294310237315950 0
 89C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\array\push.js134294310268192427 0
-70C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\src\js\controller.js134310690347358929 0
+70C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\src\js\controller.js134310738507596106 0
 95C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\number\parse-int.js134294310267542605 0
 76C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\commander\lib134294313788607575 1
 62C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\src\js\views134309917053952266 1
@@ -393,6 +393,7 @@
 89C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@parcel\cache\src\index.js134294313788627505 0
 111C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\es\async-disposable-stack\constructor.js134294310236926527 0
 66C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\mri134294355819424863 1
+85C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\bookhub-icon-mark.d7494c5d.svg134310699592411171 0
 106C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@parcel\workers\test\integration\workerfarm134294313792534702 1
 92C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\stable\string\virtual134294310280916823 1
 96C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\es\typed-array\methods.js134294310265642575 0
@@ -1081,6 +1082,7 @@
 83C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\term-size\index.d.ts134294313788832820 0
 81C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\term-size\index.js134294313788011455 0
 88C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\semver\functions\minor.js134294313791871198 0
+76C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.0b2b6bec.css134310699592848334 0
 111C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\caniuse-lite\data\features\css-featurequeries.js134294313799508759 0
 104C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\stable\number\max-safe-integer.js134294310265413742 0
 115C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\msgpackr-extract\node_modules\detect-libc\index.d.ts134294313788316259 0
@@ -3831,6 +3833,7 @@
 94C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\caniuse-lite\data\regions\ID.js134294313805301983 0
 110C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\esnext.array-buffer.detached.js134294310247717626 0
 86C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\es\string\at.js134294310234327763 0
+88C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\bookhub-logo-primary.e3c54c9e.svg134310699592411171 0
 101C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@swc\helpers\_\_ts_values\package.json134294313804479053 0
 97C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\esnext.array.at.js134294310247756568 0
 110C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\modules\esnext.array.group-by-to-map.js134294310247756568 0
@@ -4912,6 +4915,7 @@
 92C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\instance\bind.js134294310234949205 0
 102C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@jridgewell\remapping\src\source-map.ts134294355820396676 0
 93C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\instance\clamp.js134294310235783487 0
+79C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.1f896129.js.map134310699593032760 0
 81C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\@parcel\fs\LICENSE134294313785178911 0
 101C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\caniuse-lite\data\features\temporal.js134294313813199724 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\full\instance\code-points.js134294310236094476 0
@@ -5211,7 +5215,7 @@
 92C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\es\string\trim-end.js134294310280079130 0
 94C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\entries.js134294310240095342 0
 97C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\features\string\italics.js134294310262260887 0
-79C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.4a59a05f.js.map134310692012704037 0
+79C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.4a59a05f.js.map134310739094132101 0
 98C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\features\string\iterator.js134294310262988122 0
 94C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\features\set\add-all.js134294310232435590 0
 101C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\features\instance\find-last.js134294310252421667 0
@@ -6246,7 +6250,7 @@
 102C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\entries.js134294310240095342 0
 101C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\filter.js134294310251627375 0
 110C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\find-last-index.js134294310252195310 0
-75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.4a59a05f.js134310692012631333 0
+75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.4a59a05f.js134310739094075541 0
 104C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\find-last.js134294310252401537 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\find.js134294310252591823 0
 99C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\core-js\actual\array\virtual\flat.js134294310253413720 0
@@ -7970,12 +7974,16 @@
 83C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\.bin\tailwindcss.cmd134294355926058916 0
 83C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\.bin\tailwindcss.ps1134294355926048946 0
 94C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\node_modules\.bin\update-browserslist-db.cmd134294313816460095 0
+80C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.0b2b6bec.css.map134310699593042362 0
+75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.1f896129.js134310699592848334 0
 75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.3464ddca.js134294319002303635 0
 79C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.3464ddca.js.map134294319002375806 0
+76C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.347208c8.css134310699592848334 0
+80C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.347208c8.css.map134310699593032760 0
 75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.62406edb.js134294319003326191 0
 79C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.62406edb.js.map134294319003366055 0
 80C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\Book Hub.aa436662.css.map134310692008477271 0
 78C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\images (1).d755ce08.png134304006020974275 0
-65C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\index.html134310692016855987 0
-75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\manifest.webmanifest134310692016890969 0
+65C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\index.html134310699592848334 0
+75C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\dist\manifest.webmanifest134310699592848334 0
 71C:\Users\Hamed Jafari\Desktop\codings\js\Book Hub\.vscode\settings.json134294369185767634 0

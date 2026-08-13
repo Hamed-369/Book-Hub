@@ -1073,8 +1073,8 @@ const deleteSearchQuery = function(query) {
     persistLibrary();
 };
 const openPreview = function(iaId, title) {
-    modalTitle.textContent = title;
-    modalFrame.src = `https://archive.org/embed/${iaId}`;
+    this._modalTitle.textContent = title;
+    this._modalFrame.src = `https://archive.org/embed/${iaId}`;
     setTimeout(()=>{
         modalFrame.src = `https://archive.org/embed/${iaId}`;
     }, 50);
